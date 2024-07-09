@@ -104,9 +104,8 @@ Email: matthew@heurekalabs.co
    10.6. Entire Terms. These Terms constitute the entire agreement between you and us regarding the use of the Site. Our failure to exercise or enforce any right or provision of these Terms shall not operate as a waiver of such right or provision. The section titles in these Terms are for convenience only and have no legal or contractual effect. The word “including” means “including without limitation”. If any provision of these Terms is, for any reason, held to be invalid or unenforceable, the other provisions of these Terms will be unimpaired and the invalid or unenforceable provision will be deemed modified so that it is valid and enforceable to the maximum extent permitted by law. Your relationship to Company is that of an independent contractor, and neither party is an agent or partner of the other. These Terms, and your rights and obligations herein, may not be assigned, subcontracted, delegated, or otherwise transferred by you without Company’s prior written consent, and any attempted assignment, subcontract, delegation, or transfer in violation of the foregoing will be null and void. Company may freely assign these Terms. The terms and conditions set forth in these Terms shall be binding upon assignees.
    10.7. Copyright/Trademark Information. Copyright © 2024 Heureka Labs, Inc. All rights reserved. All trademarks, logos, and service marks (“Marks”) displayed on the Site are our property or the property of other third parties. You are not permitted to use these Marks without our prior written consent or the consent of such third party which may own the Marks.
    10.8. Contact Information:
-      - Name: Matthew Hirschey
+      - Name: Ioan Bolohan
       - Address: 1030 N Rogers Ln, Ste 121, PMB 2165, Raleigh, North Carolina 27610
-      - Telephone: 919-479-2315
-      - Email: matthew@heurekalabs.co
+      - Email: ioan@heurekalabs.co
 
 Last Updated: This Terms document was last updated on June 13, 2024.
